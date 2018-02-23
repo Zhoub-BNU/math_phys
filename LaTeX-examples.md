@@ -22,4 +22,4 @@ is
     title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 ```
 
-**要注意：在 `src="https://latex.codecogs.com/svg.latex?..." 中不能有空格.**
+**要注意：在 `src="https://latex.codecogs.com/svg.latex?..."` 中不能有空格.**
