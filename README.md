@@ -4,7 +4,13 @@
 This repository is an auxiliary platform of the course *Methods of Mathematical
 Physics*.
 
-这是《数学物理方法》课程的教学辅助平台, 用于和学生互动.
+这是《数学物理方法》课程的教学辅助平台, 用于和学生互动.  互动的方法见
+[involving.md](involving.md).
+```
+(0) 首先需要有一个 GitHub 帐号, 没有的请在 [GitHub](https://github.com) 注册一个帐号.
+(1) 登录到 GitHub 上, 然后浏览 https://github.com/Zhoub-BNU/math_phys
+(2)
+```
 
 - 查看**通告**可[点击此处](announcement.md)
 - [授课所用的讲义](methods_math_phys.pdf.zip)，需要密码.  密码只在课堂上披露 **(因为尚在草拟状态，其中存在错误, 恕不外传)**
