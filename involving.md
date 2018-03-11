@@ -74,3 +74,7 @@ This branch is N commits behind Zhoub-BNU:master.
     * 修改文件之前请仔细阅读该文件一开始的编辑要求.
     * 编写内容的格式是 GitHub 风格的 markdown, 可参看 https://help.github.com/categories/writing-on-github/ 中所列的文档.
     * 如果遇到数学公式, 可用 [LaTeX](https://tug.org) 代码, 示例见 [LaTeX-examples.md](https://github.com/Zhoub-BNU/math_phys/blob/master/LaTeX-examples.md).
+
+4. 从`你的 math_phys` 向本 repository 推送你的修改, 参看
+https://help.github.com/categories/collaborating-with-issues-and-pull-requests/
+中所列的文档.  其中所列的文档过多, 欢迎大家根据自己的操作经验从中筛选更加精准的文档, 把它推送给我.
