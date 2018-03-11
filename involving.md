@@ -68,3 +68,9 @@ This branch is N commits behind Zhoub-BNU:master.
 ```
   其中 `N` 是某个数字, 那上述操作就是必须的, 否则可以不进行上述操作.
 ![screenshot](before-pulling.jpg)
+
+3. 在 GitHub 上修改`你的 math_phys` 中的文件 `questions.md`, 把你的问题写进去.
+    * 编辑该文件的操作方法见 [Editing files in your repository](https://help.github.com/articles/editing-files-in-your-repository/).
+    * 修改文件之前请仔细阅读该文件一开始的编辑要求.
+    * 编写内容的格式是 GitHub 风格的 markdown, 可参看 https://help.github.com/categories/writing-on-github/ 中所列的文档.
+    * 如果遇到数学公式, 可用 [LaTeX](https://tug.org) 代码, 示例见 [LaTeX-examples.md](https://github.com/Zhoub-BNU/math_phys/blob/master/LaTeX-examples.md).
