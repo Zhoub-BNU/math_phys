@@ -41,3 +41,26 @@
 [LaTeX-examples.md](https://github.com/Zhoub-BNU/math_phys/blob/master/LaTeX-examples.md) 中的例子.
 
 ## 方法二、通过 Fork-Push 方式参与
+
+1. 预备工作: **这些工作只需要做一次即可.**
+    * 在你自己的计算机中安装 [git](https://git-scm.com/).
+    * 注册 (**sign up**) 一个 [GitHub](https://github.com) 帐号.
+    * Fork 本 repository. 登录(**sign in**) 到 GitHub 上, 打开[本 repository](https://github.com/Zhoub-BNU/math_phys)
+    之后, 点击右上角的 `Fork`.  这样, 你自己的 GitHub 帐号里就有了一个名为 `math_phys` 的 repository,
+    以下我们称它为“`你自己的 math_phys`”, 也就是 [GitHub Help](https://help.github.com) 的
+    [Working with forks](https://help.github.com/articles/working-with-forks/) 中所称的 **your fork**.
+    * 把`你的 math_phys` 克隆到自己的计算机上, 参看
+    [Cloning a repository](https://help.github.com/articles/cloning-a-repository/).
+    * 为了能和 GitHub Help 中的操作一致, 按照
+    [Configuring a remote for a fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
+    中的操作执行一次.
+
+
+2. Pull request.
+
+如果在`你自己的 math_phys`中发现类似于下图红线上方的提示字样
+```
+This branch is N commits behind Zhoub-BNU:master.
+```
+那就需要点击右边的 ``Pull request``.  此后的详细操作参看 
+![screenshot](before-pulling.jpg)
