@@ -55,12 +55,15 @@
     [Configuring a remote for a fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
     中的操作执行一次.
 
-
-2. Pull request.
-
-如果在`你自己的 math_phys`中发现类似于下图红线上方的提示字样
+2. 每次提问之前要把`你的 math_phys` 与[本 repository](https://github.com/Zhoub-BNU/math_phys)
+(即 GitHub Help 中所说的 **upstream repository**) 同步, 方法见
+[Syncing a fork](https://help.github.com/articles/syncing-a-fork/).  之后在同一个终端/虚拟终端/命令提示符窗口中执行
+```
+git push origin master
+```
+在上述操作之前如果`你自己的 math_phys`中发现类似于下图红线上方的提示字样
 ```
 This branch is N commits behind Zhoub-BNU:master.
 ```
-那就需要点击右边的 ``Pull request``.  此后的详细操作参看 
+其中 `N` 是某个数字, 那上述操作就是必须的, 否则可以不进行上述操作.
 ![screenshot](before-pulling.jpg)
